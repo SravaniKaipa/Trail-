@@ -1,0 +1,5 @@
+print("Hello, Git!")
+
+# Replace 'git command' with the actual Git command you want to run
+import subprocess
+subprocess.run(["git", "command"])
